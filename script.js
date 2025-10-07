@@ -2,7 +2,7 @@
 
 
 // requred function
-  fubction getmessage() {
+  function getmessage() {
 	return new Promise((resolve) => {
 	  setTimeout(() => {
 		  resolve("hello world");
